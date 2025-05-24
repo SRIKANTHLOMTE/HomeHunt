@@ -19,7 +19,7 @@ const LandingPageFooter = (props) => {
                   className="text-orange-A700 text-xl w-auto"
                   size="txtMarkoOneRegular20"
                 >
-                  RentRoverHub
+                  HomeHunts
                 </Text>
               </div>
               <div className="flex flex-col gap-7 h-[194px] md:h-auto items-start justify-start w-full">
@@ -28,9 +28,9 @@ const LandingPageFooter = (props) => {
                   size="txtManropeSemiBold16"
                 >
                   <>
-                    New Dindayal colony ,Junwani,Bhilai
+                    Hyderabad
                     <br />
-                    490020,Durg, Chhttisgarh
+                  500001,Durg, Telangana
                   </>
                 </Text>
                 <div className="flex flex-col gap-1 items-start justify-start w-auto">
@@ -38,13 +38,13 @@ const LandingPageFooter = (props) => {
                     className="text-base text-gray-900 w-auto"
                     size="txtManropeSemiBold16"
                   >
-                    +91 7898212097
+                    +91 7898212098
                   </Text>
                   <Text
                     className="text-base text-gray-900 w-auto"
                     size="txtManropeSemiBold16"
                   >
-                     giteshdewangan123456@mail.com
+                     srikanthlomte72@gmail.com
                   </Text>
                 </div>
                 <div className="flex flex-row gap-3 items-start justify-start w-full">
@@ -221,7 +221,7 @@ const LandingPageFooter = (props) => {
             className="text-base text-gray-900 w-full"
             size="txtManropeSemiBold16"
           >
-            © 2024. All rights reserved.
+            © 2025. All rights reserved.
           </Text>
         </div>
       </footer>
