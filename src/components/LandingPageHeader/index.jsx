@@ -16,7 +16,7 @@ const nav=useNavigate();
                 className="text-orange-A700 text-xl w-auto"
                 size="txtMarkoOneRegular20"
               >
-                RentRoverHub
+                HomeHunt
               </Text>
             </div>
             <div className="mobile-menu">
