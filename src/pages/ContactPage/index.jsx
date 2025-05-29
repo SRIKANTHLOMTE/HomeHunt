@@ -139,7 +139,7 @@ const ContactPagePage = () => {
                           className="flex-1 text-gray-600 text-lg w-auto"
                           size="txtManropeSemiBold18Gray600"
                         >
-                          info@mail.com
+                          studywithus072@mail.com
                         </Text>
                       </div>
                     </div>
